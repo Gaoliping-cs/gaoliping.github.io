@@ -69,6 +69,7 @@ Hi，我是高立平，一名软件开发工程师，专注于软件系统设计
 
 - GitHub：[Gaoliping-cs](https://github.com/Gaoliping-cs)  
 - X / Twitter：[高立平](https://x.com/golpng157682)
+- Medium：[高立平](https://medium.com/@glpdoctor)
 
 ---
 
@@ -88,7 +89,8 @@ Hi，我是高立平，一名软件开发工程师，专注于软件系统设计
   "jobTitle": "软件开发工程师",
   "sameAs": [
     "https://github.com/Gaoliping-cs",
-    "https://x.com/golpng157682"
+    "https://x.com/golpng157682",
+    "https://medium.com/@glpdoctor"
   ]
 }
 </script>
