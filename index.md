@@ -86,3 +86,16 @@ Hi! 我是高立平，一名软件开发工程师，专注于软件系统设计�
 
 如果你希望交流技术、项目或合作机会，欢迎通过以上平台联系我。
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "高立平",
+  "url": "https://gaoliping.com/",
+  "jobTitle": "软件开发工程师",
+  "sameAs": [
+    "https://github.com/Gaoliping-cs",
+    "https://x.com/golpng157682"
+  ]
+}
+</script>
