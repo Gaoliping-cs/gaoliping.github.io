@@ -3,6 +3,31 @@ layout: default
 title: "高立平 – 软件开发工程师"
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://gaoliping.com/#person",
+  "name": "高立平",
+  "url": "https://gaoliping.com/",
+  "image": "https://gaoliping.com/assets/profile.jpg",
+  "description": "Software engineer focusing on software, programming, SEO, and any new techniques.",
+  "jobTitle": "Software Engineer",
+  "knowsAbout": [
+    "Software Development",
+    "Web Systems",
+    "Data Analysis",
+    "Technical SEO",
+    "Search Engines"
+  ],
+  "sameAs": [
+    "https://github.com/Gaoliping-cs",
+    "https://x.com/golpng157682",
+    "https://medium.com/@glpdoctor"
+  ]
+}
+</script>
+
 # 高立平（GaoLiping）
 
 软件开发工程师 ｜ Software Engineer  
@@ -30,7 +55,9 @@ Hi，我是高立平，一名软件开发工程师，专注于软件系统设计
 
 - 软件开发与系统设计  
 - Web 技术（前端 / 后端）  
-- 编程语言与工程实践  
+- 编程语言与工程实践
+- SEO
+- 数据
 - 技术学习方法与效率工具  
 
 我注重：
@@ -75,18 +102,4 @@ Hi，我是高立平，一名软件开发工程师，专注于软件系统设计
 
 ---
 
-<!-- JSON-LD Person schema -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "高立平",
-  "url": "https://gaoliping.com/",
-  "jobTitle": "软件开发工程师",
-  "sameAs": [
-    "https://github.com/Gaoliping-cs",
-    "https://x.com/golpng157682",
-    "https://medium.com/@glpdoctor"
-  ]
-}
-</script>
+
