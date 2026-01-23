@@ -71,11 +71,7 @@ Hi，我是高立平，一名软件开发工程师，专注于软件系统设计
 - X / Twitter：[高立平](https://x.com/golpng157682)
 - Medium：[高立平](https://medium.com/@glpdoctor)
 
----
 
-## 联系方式（Contact）
-
-如果你希望交流技术、项目或合作机会，欢迎通过以上平台联系我。
 
 ---
 
