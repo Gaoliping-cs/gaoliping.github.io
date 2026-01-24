@@ -42,8 +42,8 @@ Hi，我是高立平，一名软件开发工程师，专注于软件系统设计
 这个个人网站，主要用于：
 
 - 记录和整理我在软件开发过程中的经验与思考  
-- 展示我参与或主导过的技术项目  
 - 分享我对新技术、工具和行业趋势的理解
+- 记录我学习新领域知识的过程
 
 我相信长期、系统地输出高质量内容，是技术人成长和建立个人品牌的重要方式。
 
@@ -94,9 +94,9 @@ Hi，我是高立平，一名软件开发工程师，专注于软件系统设计
 
 你也可以在以下平台找到我：
 
-- GitHub：[Gaoliping-cs](https://github.com/Gaoliping-cs)  
-- X / Twitter：[高立平](https://x.com/golpng157682)
-- Medium：[高立平](https://medium.com/@glpdoctor)
+- 高立平的 GitHub：[Gaoliping-cs](https://github.com/Gaoliping-cs)  
+- 高立平的 X / Twitter：[高立平](https://x.com/golpng157682)
+- 高立平的 Medium：[高立平](https://medium.com/@glpdoctor)
 
 
 
