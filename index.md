@@ -52,7 +52,7 @@ Hi，我是高立平，一名软件开发工程师，专注于软件系统设计
 
 ---
 
-## 文章 Posts
+## 文章（Posts）
 
 {% for post in site.posts %}
 - [{{ post.title }}]({{ post.url }})
