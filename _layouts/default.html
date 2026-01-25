@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+
+  <!-- Page Title -->
+  <title>{{ page.title | default: site.title | escape }}</title>
+
+  <!-- Meta Description -->
+  <meta name="description"
+        content="{{ page.description | default: site.description | escape }}">
+
+  <!-- Viewport -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Canonical URL -->
+  <link rel="canonical"
+        href="{{ page.url | absolute_url }}">
+
+  <!-- Open Graph / Social -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:title"
+        content="{{ page.title | default: site.title }}">
+  <meta property="og:description"
+        content="{{ page.description | default: site.description }}">
+  <meta property="og:url"
+        content="{{ page.url | absolute_url }}">
+
+  {% if page.image %}
+  <meta property="og:image"
+        content="{{ page.image | absolute_url }}">
+  {% endif %}
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title"
+        content="{{ page.title | default: site.title }}">
+  <meta name="twitter:description"
+        content="{{ page.description | default: site.description }}">
+
+  <!-- Person Schema (Global, Homepage-focused) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "@id": "https://gaoliping.com/#person",
+    "name": "高立平",
+    "alternateName": "GaoLiping","Gao Liping","Liping Gao",
+    "url": "https://gaoliping.com/",
+    "jobTitle": "Software Engineer",
+    "description": "Software engineer focusing on web systems, data, and technical SEO.",
+    "image": "https://gaoliping.com/assets/profile.jpg",
+    "sameAs": [
+      "https://github.com/Gaoliping-cs",
+      "https://x.com/golpng157682",
+      "https://medium.com/@glpdoctor"
+    ]
+  }
+  </script>
+
+</head>
+
+<body>
+
+  <main>
+    {{ content }}
+  </main>
+
+</body>
+</html>
