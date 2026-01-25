@@ -81,15 +81,6 @@ Hi，我是高立平，一名软件开发工程师，专注于软件系统设计
 ### 技术学习与实验项目
 - 针对新技术或新工具进行独立研究与实践  
 - 编写示例代码与技术总结  
-- 在 GitHub 上进行版本管理与迭代
-
----
-
-## 博客文章（Blog）
-
-{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%Y-%m-%d" }}
-{% endfor %}
 
 ---
 
@@ -107,7 +98,7 @@ Hi，我是高立平，一名软件开发工程师，专注于软件系统设计
 
 # GaoLiping
 
-**Software Engineer | Web Systems | Technical SEO**
+Software Engineer | Web Systems | Technical SEO
 
 I am a software engineer focused on building and analyzing web systems from both an engineering and search engine perspective.  
 My work sits at the intersection of **software development, data analysis, and technical SEO**.
@@ -125,7 +116,7 @@ My work sits at the intersection of **software development, data analysis, and t
 
 ## Articles & Writing
 
-- 📘 **Medium**: Medium: https://medium.com/@glpdoctor/ 
+- 📘 **Medium**: [Medium](https://medium.com/@glpdoctor)
 - ✍️ **Blog posts on this site**:  
   {% raw %}{% for post in site.posts %}{% endraw %}
   - [{{ post.title }}]({{ post.url }})
@@ -135,16 +126,15 @@ My work sits at the intersection of **software development, data analysis, and t
 
 ## Projects
 
-- **GitHub**: https://github.com/Gaoliping-cs  
+- **GitHub**: [Github](https://github.com/Gaoliping-cs)  
   Open-source projects related to web development, data processing, and automation.
 
 ---
 
 ## Contact & Profiles
 
-- 🌐 Website: https://gaoliping.com
-- 
----
+- [Website](https://gaoliping.com)
+- [X / Twitter](https://x.com/golpng157682)
 
 
 
