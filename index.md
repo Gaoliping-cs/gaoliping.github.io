@@ -16,8 +16,6 @@ This is the personal website of 高立平 （Gao Liping）, a software engineer.
 
 I am a software engineer focused on building and analyzing web systems from both an **engineering** and **search engine** perspective.
 
-I focus on building and analyzing web systems from both an **engineering** and **search engine** perspective.
-
 My work sits at the intersection of:
 
 - software development  
