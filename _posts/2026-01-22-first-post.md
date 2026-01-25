@@ -4,6 +4,10 @@ date: 2026-01-22
 categories: blog
 ---
 
+🔗 **Back to:** [Main](/)
+
+---
+
 # Why set up this website?
 
 ## 背景
