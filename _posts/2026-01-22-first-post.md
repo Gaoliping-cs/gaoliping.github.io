@@ -4,6 +4,8 @@ date: 2026-01-22
 categories: blog
 ---
 
+# Why set up this website?
+
 ## 背景
 
 在学习和工作的过程中，我逐渐意识到，仅仅“会做”是不够的，
