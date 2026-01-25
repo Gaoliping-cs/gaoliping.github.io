@@ -1,0 +1,42 @@
+# ------------------------------
+# Site settings
+# ------------------------------
+title: "高立平"
+description: "Software engineer focusing on web systems, data, and technical SEO."
+baseurl: "" # leave empty for root
+url: "https://gaoliping.com" # website URL
+
+# ------------------------------
+# Build settings
+# ------------------------------
+markdown: kramdown
+theme: minima # 定义主题
+plugins:
+  - jekyll-sitemap # 新增文章自动更新sitemap
+
+# ------------------------------
+# SEO settings
+# ------------------------------
+# Helps with meta tags
+author:
+  name: "高立平"
+  url: "https://gaoliping.com"
+social:
+  github: "https://github.com/Gaoliping-cs"
+  medium: "https://medium.com/@glpdoctor"
+  X / Twitter: "https://x.com/golpng157682"
+
+# ------------------------------
+# Exclude from build
+# ------------------------------
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle
+  - README.md
+
+# ------------------------------
+# Optional settings
+# ------------------------------
+paginate: 5  # 如果使用分页
