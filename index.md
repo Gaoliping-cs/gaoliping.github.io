@@ -5,9 +5,10 @@ description: Software engineer focusing on web systems, data, and technical SEO.
 ---
 # 高立平（GaoLiping）
 
-**软件开发工程师 ｜ Software Engineer** | Web Systems | Data Analysis | Technical SEO
+软件开发工程师 ｜ Software Engineer
+Web Systems | Data Analysis | Technical SEO
 
----
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
