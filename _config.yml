@@ -14,6 +14,19 @@ theme: minima # 定义主题
 plugins:
   - jekyll-sitemap # 新增文章自动更新sitemap
 
+# 关键：强制 posts 输出
+collections:
+  posts:
+    output: true
+
+# （可选但推荐）
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      sitemap: true
+
 # ------------------------------
 # SEO settings
 # ------------------------------
