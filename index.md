@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "高立平 – 软件开发工程师"
+description: Software engineer focusing on web systems, data, and technical SEO.
 ---
 
 <script type="application/ld+json">
@@ -18,7 +19,8 @@ title: "高立平 – 软件开发工程师"
     "Web Systems",
     "Data Analysis",
     "Technical SEO",
-    "Search Engines"
+    "Search Engines",
+    "Structured Data"
   ],
   "sameAs": [
     "https://github.com/Gaoliping-cs",
@@ -32,6 +34,9 @@ title: "高立平 – 软件开发工程师"
 
 软件开发工程师 ｜ Software Engineer  
 技术博客｜学习记录
+
+**Software Engineer | Web Systems | Technical SEO**
+
 
 ---
 
@@ -101,5 +106,47 @@ Hi，我是高立平，一名软件开发工程师，专注于软件系统设计
 
 
 ---
+
+# GaoLiping
+
+**Software Engineer | Web Systems | Technical SEO**
+
+I am a software engineer focused on building and analyzing web systems from both an engineering and search engine perspective.  
+My work sits at the intersection of **software development, data analysis, and technical SEO**.
+
+---
+
+## What I write about
+
+- Building personal websites with GitHub Pages and Jekyll
+- How search engines interpret structured data
+- Technical SEO for developers
+- Data-driven analysis of web behavior
+
+---
+
+## Articles & Writing
+
+- 📘 **Medium**: Medium: https://medium.com/@glpdoctor/ 
+- ✍️ **Blog posts on this site**:  
+  {% raw %}{% for post in site.posts %}{% endraw %}
+  - [{{ post.title }}]({{ post.url }})
+  {% raw %}{% endfor %}{% endraw %}
+
+---
+
+## Projects
+
+- **GitHub**: https://github.com/Gaoliping-cs  
+  Open-source projects related to web development, data processing, and automation.
+
+---
+
+## Contact & Profiles
+
+- 🌐 Website: https://gaoliping.com
+- 
+---
+
 
 
