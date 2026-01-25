@@ -38,6 +38,17 @@ Web Systems | Data Analysis | Technical SEO
 
 ---
 
+## Latest Articles
+
+{% for post in site.posts limit:5 %}
+- [{{ post.title }}]({{ post.url }})
+   <small>{{ post.date | date: "%Y-%m-%d" }}</small>
+{% endfor %}
+
+[View all articles →](/articles/)
+
+---
+
 ## 关于我（About Me）
 
 Hi，我是高立平，一名软件开发工程师，专注于软件系统设计、Web 开发与技术实践。
