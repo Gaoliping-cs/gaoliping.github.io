@@ -3,32 +3,6 @@ layout: default
 title: "高立平"
 description: 高立平，软件开发工程师，专注于 Web 系统、数据分析与技术 SEO。
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "@id": "https://gaoliping.com/#person",
-  "name": "高立平",
-  "alternateName": ["Gao Liping", "GaoLiping", "Liping Gao"],
-  "url": "https://gaoliping.com/",
-  "image": "https://gaoliping.com/assets/profile.jpg",
-  "jobTitle": "Software Engineer",
-  "description": "Software engineer focusing on web systems, data analysis, and technical SEO.",
-  "knowsAbout": [
-    "Software Development",
-    "Web Systems",
-    "Data Analysis",
-    "Technical SEO",
-    "Search Engines",
-    "Structured Data"
-  ],
-  "sameAs": [
-    "https://github.com/Gaoliping-cs",
-    "https://x.com/golpng157682",
-    "https://medium.com/@glpdoctor"
-  ]
-}
-</script>
 
 # 高立平  
 **Software Engineer · Web Systems · Data Analysis · Technical SEO**
@@ -38,13 +12,17 @@ description: 高立平，软件开发工程师，专注于 Web 系统、数据�
 
 ## About
 
+This is the personal website of 高立平 （Gao Liping）, a software engineer.
+
 I am a software engineer focused on building and analyzing web systems from both an **engineering** and **search engine** perspective.
+
+I focus on building and analyzing web systems from both an **engineering** and **search engine** perspective.
 
 My work sits at the intersection of:
 
 - software development  
 - data analysis  
-- technical SEO  
+- technical SEO
 
 This site serves as a long-term place to document technical thinking, experiments, and structured knowledge.
 
