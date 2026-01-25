@@ -6,7 +6,7 @@ description: Full list of technical articles by 高立平 (GaoLiping)
 ---
 
 
-🔗 **Jump to:** [Main](/)
+🔗 **Back to:** [Main](/)
 
 ---
 
