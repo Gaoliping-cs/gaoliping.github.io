@@ -10,7 +10,7 @@ Web Systems | Data Analysis | Technical SEO
 
 ---
 
-🔗 **Jump to:** [Articles](#latest-articles) · [About](#about) · [Projects](#projects)
+🔗 **Jump to:** [View all articles](/articles/) · [About](#about) · [Projects](#projects)
 
 ---
 
