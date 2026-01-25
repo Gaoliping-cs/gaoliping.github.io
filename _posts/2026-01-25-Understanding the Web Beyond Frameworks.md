@@ -9,6 +9,9 @@ description: A technical exploration of how browsers, documents, and crawlers sh
 
 ---
 
+# Understanding the Web Beyond Frameworks
+
+
 ## Introduction
 
 Modern web development is often discussed through the lens of frameworks.  
