@@ -28,19 +28,15 @@ This site serves as a long-term place to document technical thinking, experiment
 
 ---
 
-<div class="jump-links">
 🔗 **Jump to:** [Articles](/articles/) · [Projects](#projects)
-</div>
 
 ---
 
 ## Latest Articles
 
 {% for post in site.posts limit:3 %}
-<div class="article-card">
 - [{{ post.title }}]({{ post.url }})  
   <small>{{ post.date | date: "%Y-%m-%d" }}</small>
-</div>
 {% endfor %}
 
 [View all articles →](/articles/)
