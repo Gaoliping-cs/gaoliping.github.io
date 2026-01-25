@@ -6,6 +6,10 @@ description: A technical exploration of how browsers, documents, and crawlers sh
 canonical: https://gaoliping.com/2026/01/25/Understanding-the-Web-Beyond-Frameworks.html
 ---
 
+🔗 **Back to:** [Main](/)
+
+---
+
 > This article expands on a reflection previously shared on my [Medium](https://medium.com/@glpdoctor/why-modern-web-development-is-less-about-frameworks-and-more-about-understanding-the-web-6b027148580a) story, focusing on the technical foundations that shape modern web development.
 
 ---
