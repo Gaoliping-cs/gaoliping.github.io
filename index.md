@@ -52,6 +52,22 @@ Hi，我是高立平，一名软件开发工程师，专注于软件系统设计
 
 ---
 
+## 文章 Posts
+
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
+
+
+---
+
+{% for post in site.posts limit:5 %}
+- [{{ post.title }}]({{ post.url }})  
+  <small>{{ post.date | date: "%Y-%m-%d" }}</small>
+{% endfor %}
+
+---
+
 ## 技术方向与能力（Skills & Focus）
 
 我的主要技术方向包括：
