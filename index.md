@@ -28,6 +28,7 @@ This site serves as a long-term place to document technical thinking, experiment
 
 ---
 
+<div class="jump-links">
 🔗 **Jump to:** [Articles](/articles/) · [Projects](#projects)
 
 ---
