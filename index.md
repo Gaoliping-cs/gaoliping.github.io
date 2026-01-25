@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "高立平 – 软件开发工程师"
+title: "高立平"
 description: 高立平，软件开发工程师，专注于 Web 系统、数据分析与技术 SEO。
 ---
 <script type="application/ld+json">
