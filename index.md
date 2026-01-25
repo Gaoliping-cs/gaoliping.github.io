@@ -3,10 +3,6 @@ layout: default
 title: "高立平 – 软件开发工程师"
 description: 高立平，软件开发工程师，专注于 Web 系统、数据分析与技术 SEO。
 ---
-
-# 高立平  
-**Software Engineer · Web Systems · Data Analysis · Technical SEO**
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -33,6 +29,10 @@ description: 高立平，软件开发工程师，专注于 Web 系统、数据�
   ]
 }
 </script>
+
+# 高立平  
+**Software Engineer · Web Systems · Data Analysis · Technical SEO**
+
 
 ---
 
