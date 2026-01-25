@@ -1,6 +1,7 @@
 .
 ├── _layouts/
 │   └── default.html         # Contain SEO
+│   └── post.html            # Contain SEO
 ├── _posts/
 │   └── 2026-01-25-title.md  # Article
 ├── assets/
