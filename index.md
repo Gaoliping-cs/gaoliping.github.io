@@ -33,9 +33,7 @@ description: Software engineer focusing on web systems, data, and technical SEO.
 # 高立平（GaoLiping）
 
 软件开发工程师 ｜ Software Engineer  
-技术博客｜学习记录
-
-**Software Engineer | Web Systems | Technical SEO**
+Web Systems | Data Analysis | Technical SEO
 
 
 ---
