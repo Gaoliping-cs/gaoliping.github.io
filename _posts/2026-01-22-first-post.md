@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Why set up this website?"
 date: 2026-01-22
 categories: blog
