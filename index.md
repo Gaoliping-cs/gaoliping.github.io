@@ -10,11 +10,11 @@ Web Systems | Data Analysis | Technical SEO
 
 ---
 
-🔗 **Jump to:** [View all articles](/articles/) · [About](#about) · [Projects](#projects)
+🔗 **Jump to:** [Articles](/articles/) · [About](#about) · [Projects](#projects)
 
 ---
 
-## 文章（Latest Articles）
+## 近期文章（Latest Articles）
 
 {% for post in site.posts limit:5 %}
 - [{{ post.title }}]({{ post.url }})
@@ -120,6 +120,12 @@ My work sits at the intersection of **software development, data analysis, and t
 
 - [Website](https://gaoliping.com)
 - [X / Twitter](https://x.com/golpng157682)
+
+---
+
+🔗 **Jump to:** [Articles](/articles/) · [About](#about) · [Projects](#projects)
+
+---
 
 
 <script type="application/ld+json">
