@@ -3,42 +3,18 @@ layout: default
 title: "高立平 – 软件开发工程师"
 description: Software engineer focusing on web systems, data, and technical SEO.
 ---
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "@id": "https://gaoliping.com/#person",
-  "name": "高立平",
-  "url": "https://gaoliping.com/",
-  "image": "https://gaoliping.com/assets/profile.jpg",
-  "description": "Software engineer focusing on software, programming, SEO, and any new techniques.",
-  "jobTitle": "Software Engineer",
-  "knowsAbout": [
-    "Software Development",
-    "Web Systems",
-    "Data Analysis",
-    "Technical SEO",
-    "Search Engines",
-    "Structured Data"
-  ],
-  "sameAs": [
-    "https://github.com/Gaoliping-cs",
-    "https://x.com/golpng157682",
-    "https://medium.com/@glpdoctor"
-  ]
-}
-</script>
-
 # 高立平（GaoLiping）
 
 软件开发工程师 ｜ Software Engineer  
 Web Systems | Data Analysis | Technical SEO
 
+---
+
+🔗 **Jump to:** [Articles](#latest-articles) · [About](#about) · [Projects](#projects)
 
 ---
 
-## Latest Articles
+## 文章（Latest Articles）
 
 {% for post in site.posts limit:5 %}
 - [{{ post.title }}]({{ post.url }})
@@ -46,6 +22,7 @@ Web Systems | Data Analysis | Technical SEO
 {% endfor %}
 
 [View all articles →](/articles/)
+
 
 ---
 
@@ -60,15 +37,6 @@ Hi，我是高立平，一名软件开发工程师，专注于软件系统设计
 - 记录我学习新领域知识的过程
 
 我相信长期、系统地输出高质量内容，是技术人成长和建立个人品牌的重要方式。
-
----
-
-## 文章（Posts）
-
-{% for post in site.posts limit:5 %}
-- [{{ post.title }}]({{ post.url }})  
-  <small>{{ post.date | date: "%Y-%m-%d" }}</small>
-{% endfor %}
 
 ---
 
@@ -154,4 +122,28 @@ My work sits at the intersection of **software development, data analysis, and t
 - [X / Twitter](https://x.com/golpng157682)
 
 
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://gaoliping.com/#person",
+  "name": "高立平",
+  "url": "https://gaoliping.com/",
+  "image": "https://gaoliping.com/assets/profile.jpg",
+  "description": "Software engineer focusing on software, programming, SEO, and any new techniques.",
+  "jobTitle": "Software Engineer",
+  "knowsAbout": [
+    "Software Development",
+    "Web Systems",
+    "Data Analysis",
+    "Technical SEO",
+    "Search Engines",
+    "Structured Data"
+  ],
+  "sameAs": [
+    "https://github.com/Gaoliping-cs",
+    "https://x.com/golpng157682",
+    "https://medium.com/@glpdoctor"
+  ]
+}
+</script>
