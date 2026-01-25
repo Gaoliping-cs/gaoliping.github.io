@@ -5,8 +5,34 @@ description: Software engineer focusing on web systems, data, and technical SEO.
 ---
 # 高立平（GaoLiping）
 
-软件开发工程师 ｜ Software Engineer  
-Web Systems | Data Analysis | Technical SEO
+**软件开发工程师 ｜ Software Engineer** | Web Systems | Data Analysis | Technical SEO
+
+---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://gaoliping.com/#person",
+  "name": "高立平",
+  "url": "https://gaoliping.com/",
+  "image": "https://gaoliping.com/assets/profile.jpg",
+  "description": "Software engineer focusing on software, programming, SEO, and any new techniques.",
+  "jobTitle": "Software Engineer",
+  "knowsAbout": [
+    "Software Development",
+    "Web Systems",
+    "Data Analysis",
+    "Technical SEO",
+    "Search Engines",
+    "Structured Data"
+  ],
+  "sameAs": [
+    "https://github.com/Gaoliping-cs",
+    "https://x.com/golpng157682",
+    "https://medium.com/@glpdoctor"
+  ]
+}
+</script>
 
 ---
 
@@ -128,28 +154,3 @@ My work sits at the intersection of **software development, data analysis, and t
 ---
 
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "@id": "https://gaoliping.com/#person",
-  "name": "高立平",
-  "url": "https://gaoliping.com/",
-  "image": "https://gaoliping.com/assets/profile.jpg",
-  "description": "Software engineer focusing on software, programming, SEO, and any new techniques.",
-  "jobTitle": "Software Engineer",
-  "knowsAbout": [
-    "Software Development",
-    "Web Systems",
-    "Data Analysis",
-    "Technical SEO",
-    "Search Engines",
-    "Structured Data"
-  ],
-  "sameAs": [
-    "https://github.com/Gaoliping-cs",
-    "https://x.com/golpng157682",
-    "https://medium.com/@glpdoctor"
-  ]
-}
-</script>
