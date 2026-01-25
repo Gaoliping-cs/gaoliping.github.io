@@ -167,22 +167,5 @@ The web’s foundations will remain.
 
 Check out my [Article Archive](/articles/) for more posts.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Understanding the Web Beyond Frameworks",
-  "author": {
-    "@type": "Person",
-    "@id": "https://gaoliping.com/#person",
-    "name": "GaoLiping"
-  },
-  "datePublished": "2026-01-25",
-  "description": "A technical exploration of how browsers, documents, and crawlers shape modern web development beyond frameworks.",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://gaoliping.com/2026/01/25/Understanding-the-Web-Beyond-Frameworks.html"
-  }
-}
-</script>
+
 
