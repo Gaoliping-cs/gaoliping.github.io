@@ -31,45 +31,31 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0.5em;
 }
 
-h1 {
-  font-size: 2em;
-}
-
-h2 {
-  font-size: 1.6em;
-}
-
-h3 {
-  font-size: 1.3em;
-}
+h1 { font-size: 2em; }
+h2 { font-size: 1.6em; }
+h3 { font-size: 1.3em; }
 
 /* ===============================
    段落与列表
 ================================ */
-p {
-  margin-bottom: 1em;
-}
+p { margin-bottom: 1em; }
 
 ul, ol {
   padding-left: 1.5em;
   margin-bottom: 1em;
 }
 
-li {
-  margin-bottom: 0.5em;
-}
+li { margin-bottom: 0.5em; }
 
 /* ===============================
    链接
 ================================ */
 a {
-  color: #0366d6;  /* GitHub 蓝 */
+  color: #0366d6;
   text-decoration: none;
 }
 
-a:hover {
-  text-decoration: underline;
-}
+a:hover { text-decoration: underline; }
 
 /* ===============================
    分隔线
@@ -98,22 +84,45 @@ pre, code {
   border-radius: 4px;
 }
 
-pre {
-  overflow-x: auto;
-  padding: 1em;
+pre { overflow-x: auto; padding: 1em; }
+
+/* ===============================
+   Jump-to 链接
+================================ */
+.jump-links {
+  display: flex;
+  justify-content: center;  /* 居中显示 */
+  gap: 1em;                 /* 链接间距 */
+  margin: 1.5em 0;
+  font-weight: 500;
+  font-size: 1rem;
 }
 
 /* ===============================
-   Jump to 链接样式
+   Article 卡片样式
 ================================ */
-.jump-links {
-  margin: 1.5em 0;
-  padding: 0.5em 0;
+.article-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1em;
+  margin-bottom: 1em;
+  background-color: #fafafa;
+  transition: background-color 0.2s ease, box-shadow 0.2s ease;
 }
 
-.jump-links a {
-  margin-right: 1em;
-  font-weight: 500;
+.article-card a {
+  font-weight: 600;
+  color: #0366d6;
+  text-decoration: none;
+}
+
+.article-card a:hover {
+  text-decoration: underline;
+}
+
+.article-card:hover {
+  background-color: #f0f4f8;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
 
 /* ===============================
@@ -130,15 +139,7 @@ footer {
    响应式优化
 ================================ */
 @media (max-width: 600px) {
-  main {
-    padding: 0 10px; /* 小屏幕更小边距 */
-  }
-
-  h1 {
-    font-size: 1.6em;
-  }
-
-  h2 {
-    font-size: 1.4em;
-  }
+  main { padding: 0 10px; }
+  h1 { font-size: 1.6em; }
+  h2 { font-size: 1.4em; }
 }
