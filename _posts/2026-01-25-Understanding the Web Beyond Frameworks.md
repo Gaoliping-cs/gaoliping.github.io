@@ -3,6 +3,7 @@ layout: post
 title: "Understanding the Web Beyond Frameworks"
 date: 2026-01-25
 description: A technical exploration of how browsers, documents, and crawlers shape modern web development beyond frameworks.
+canonical: https://gaoliping.com/2026/01/25/Understanding-the-Web-Beyond-Frameworks.html
 ---
 
 > This article expands on a reflection previously shared on my [Medium](https://medium.com/@glpdoctor/why-modern-web-development-is-less-about-frameworks-and-more-about-understanding-the-web-6b027148580a) story, focusing on the technical foundations that shape modern web development.
@@ -159,4 +160,25 @@ The web’s foundations will remain.
 - Search engine crawling and indexing behavior
 - Structured data and semantic markup
 
+
+Check out my [Article Archive](/articles/) for more posts.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Understanding the Web Beyond Frameworks",
+  "author": {
+    "@type": "Person",
+    "@id": "https://gaoliping.com/#person",
+    "name": "GaoLiping"
+  },
+  "datePublished": "2026-01-25",
+  "description": "A technical exploration of how browsers, documents, and crawlers shape modern web development beyond frameworks.",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://gaoliping.com/2026/01/25/Understanding-the-Web-Beyond-Frameworks.html"
+  }
+}
+</script>
 
