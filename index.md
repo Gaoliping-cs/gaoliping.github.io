@@ -118,9 +118,6 @@ My work sits at the intersection of **software development, data analysis, and t
 
 - 📘 **Medium**: [Medium](https://medium.com/@glpdoctor)
 - ✍️ **Blog posts on this site**:  
-  {% raw %}{% for post in site.posts %}{% endraw %}
-  - [{{ post.title }}]({{ post.url }})
-  {% raw %}{% endfor %}{% endraw %}
 
 ---
 
