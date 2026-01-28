@@ -1,0 +1,45 @@
+# A System-Oriented Perspective on Web Information Retrieval
+
+I recently published a research article on Academia.edu titled **“Data-Driven Perspectives on Web Systems Design for Large-Scale Information Retrieval.”** This work reflects my ongoing interest in understanding search engines and web information retrieval systems from a **software engineering and system-level perspective**, rather than viewing ranking models in isolation.
+
+## Motivation
+
+Modern search engines are often discussed primarily in terms of machine learning models and ranking performance. While these components are important, real-world retrieval effectiveness emerges from the interaction of many system layers: crawling strategies, indexing architectures, feature engineering, ranking pipelines, and continuous feedback loops driven by user interaction data.
+
+As a software engineer working at the intersection of **web systems and information retrieval**, I wanted to explore how practical engineering considerations can be translated into **research-oriented analysis**. The goal of this article is not to propose a single new algorithm, but to provide a structured framework for reasoning about retrieval behavior in large-scale web systems.
+
+## Overview of the Article
+
+The paper examines several core aspects of web-based information retrieval:
+
+- **Web systems architecture**, including crawling and indexing as first-class components that shape the retrievable information space  
+- **Ranking and learning-to-rank models**, with an emphasis on interpretability and system constraints  
+- **User interaction data** as an observational signal, highlighting methodological challenges such as bias and feedback loops  
+- **Experimental design considerations** that balance retrieval effectiveness with engineering feasibility  
+
+Rather than focusing solely on empirical optimization, the article emphasizes **conceptual clarity, system-level thinking, and methodological rigor**. Classical IR models (such as BM25) are discussed alongside data-driven ranking approaches to highlight how theory and practice coexist in production search systems.
+
+## Intended Audience
+
+This work is intended for:
+
+- Researchers and practitioners in **information retrieval and web search**  
+- Software engineers interested in **search systems and data-driven optimization**  
+- Readers looking for a **conceptual and architectural view** of search engines rather than a purely model-centric treatment  
+
+The paper is written as a **preprint / working paper** and has not undergone peer review. It is meant to encourage discussion and serve as a foundation for future experimental or applied research.
+
+## Read the Full Paper
+
+The full article is available on Academia.edu:
+
+> **Data-Driven Perspectives on Web Systems Design for Large-Scale Information Retrieval**  
+> *Working Paper*  
+>
+> [Link to the paper on Academia.edu](https://www.academia.edu/155049108/Data_Driven_Perspectives_on_Web_Systems_Design_for_Large_Scale_Information_Retrieval_Working_Paper_)
+
+
+
+## Looking Ahead
+
+I plan to expand this work in future revisions by incorporating deeper experimental analysis and exploring explainability and evaluation methodologies for large-scale retrieval systems. Feedback and discussion are very welcome.
