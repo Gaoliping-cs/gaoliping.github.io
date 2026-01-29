@@ -4,7 +4,8 @@
   <meta charset="UTF-8">
   <title>{{ page.title }}</title>
   <meta name="description" content="{{ page.description }}">
-  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="canonical"
+      href="{% if page.canonical %}{{ page.canonical }}{% else %}{{ page.url | absolute_url }}{% endif %}">
 
   <!-- BlogPosting Schema -->
   <script type="application/ld+json">
