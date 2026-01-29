@@ -67,9 +67,9 @@
       "https://scut.academia.edu/%E9%AB%98%E7%AB%8B%E5%B9%B3GaoLiping"
     ],
     "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://gaoliping.com/"
-    }
+    "@type": "WebPage",
+    "@id": "{% if page.canonical %}{{ page.canonical }}{% else %}{{ page.url | absolute_url }}{% endif %}"
+}
   }
   </script>
 
