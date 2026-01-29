@@ -24,7 +24,7 @@
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "{{ page.url | absolute_url }}"
+      "@id": "{% if page.canonical %}{{ page.canonical }}{% else %}{{ page.url | absolute_url }}{% endif %}"
     },
     "datePublished": "{{ page.date | date_to_xmlschema }}",
     "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}"
