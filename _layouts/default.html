@@ -15,7 +15,7 @@
 
   <!-- Canonical URL -->
   <link rel="canonical"
-        href="{{ page.url | absolute_url }}">
+        href="{% if page.canonical %}{{ page.canonical }}{% else %}{{ page.url | absolute_url }}{% endif %}">
 
   <!-- Open Graph / Social -->
   <meta property="og:type" content="website">
