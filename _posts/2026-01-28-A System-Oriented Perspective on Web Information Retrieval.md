@@ -2,7 +2,7 @@
 layout: post
 title: "A System-Oriented Perspective on Web Information Retrieval"
 date: 2026-01-28
-description: A System-Oriented Perspective on Web Information Retrieval
+description: This manuscript presents a conceptual and system-level analysis of large-scale web information retrieval from a software engineering perspective.
 canonical: https://www.academia.edu/155049108/Data_Driven_Perspectives_on_Web_Systems_Design_for_Large_Scale_Information_Retrieval_Working_Paper_
 ---
 
