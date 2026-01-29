@@ -6,6 +6,10 @@ description: This manuscript presents a conceptual and system-level analysis of 
 canonical: https://www.academia.edu/155049108/Data_Driven_Perspectives_on_Web_Systems_Design_for_Large_Scale_Information_Retrieval_Working_Paper_
 ---
 
+🔗 **Back to:** [Main](/)
+
+---
+
 # A System-Oriented Perspective on Web Information Retrieval
 
 I recently published a research article on Academia.edu titled **“Data-Driven Perspectives on Web Systems Design for Large-Scale Information Retrieval.”** This work reflects my ongoing interest in understanding search engines and web information retrieval systems from a **software engineering and system-level perspective**, rather than viewing ranking models in isolation.
