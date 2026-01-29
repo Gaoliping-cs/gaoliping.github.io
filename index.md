@@ -81,7 +81,7 @@ I care deeply about:
 - **Medium**: [@glpdoctor](https://medium.com/@glpdoctor)  
 - **X / Twitter**: [@golpng157682](https://x.com/golpng157682)
 - **Academia**: [高立平GaoLiping](https://scut.academia.edu/%E9%AB%98%E7%AB%8B%E5%B9%B3GaoLiping)
-- **Quora**: [高立平](https://www.quora.com/profile/%E9%AB%98%E7%AB%8B%E5%B9%B3)
+
 
 ---
 
