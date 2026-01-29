@@ -1,39 +1,35 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-  <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
-  <meta name="description" content="{{ page.description }}">
-  <link rel="canonical"
-      href="{% if page.canonical %}{{ page.canonical }}{% else %}{{ page.url | absolute_url }}{% endif %}">
+---
+layout: default
+---
 
-  <!-- BlogPosting Schema -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "headline": "{{ page.title | escape }}",
-    "description": "{{ page.description | escape }}",
-    "author": {
-      "@type": "Person",
-      "@id": "https://gaoliping.com/#person"
-    },
-    "publisher": {
-      "@type": "Person",
-      "@id": "https://gaoliping.com/#person"
-    },
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "{% if page.canonical %}{{ page.canonical }}{% else %}{{ page.url | absolute_url }}{% endif %}"
-    },
-    "datePublished": "{{ page.date | date_to_xmlschema }}",
-    "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}"
-  }
-  </script>
-</head>
-<body>
-  <main>
+<article class="post">
+  <header>
+    <h1>{{ page.title }}</h1>
+    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+  </header>
+
+  <div class="content">
     {{ content }}
-  </main>
-</body>
-</html>
+  </div>
+</article>
+
+<!-- Article Schema JSON-LD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ page.title | escape }}",
+  "author": {
+    "@type": "Person",
+    "name": "高立平",
+    "url": "https://gaoliping.com/#person"
+  },
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{% if page.canonical %}{{ page.canonical }}{% else %}{{ page.url | absolute_url }}{% endif %}"
+  },
+  "image": "{% if page.image %}{{ page.image | absolute_url }}{% endif %}"
+}
+</script>
