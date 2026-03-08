@@ -7,6 +7,10 @@ keywords: "OpenClaw, AI agent, autonomous AI, security risks, AI automation, Ope
 canonical: 
 ---
 
+🔗 **Back to:** [Main](/)
+
+---
+
 # OpenClaw: The Hottest AI Agent and Its Emerging Risks
 
 In early 2026, the open-source AI agent **OpenClaw** has taken the tech community by storm. Unlike traditional chatbots, OpenClaw can **execute tasks locally, interact with operating systems, control browsers, and manage communication apps**. Since its release in November 2025, it has quickly gained tens of thousands of GitHub stars and widespread adoption.
