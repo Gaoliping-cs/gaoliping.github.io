@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Conceptual Framework for Data-Driven Search Optimization in Modern Web Systems.md"
+title: "A Conceptual Framework for Data-Driven Search Optimization in Modern Web Systems"
 date: 2026-03-09
 meta_description: "An overview of a conceptual framework connecting web system architecture, information retrieval theory, and data-driven search optimization."
 canonical: https://gaoliping.com/2026/03/06/OpenClaw-The-Hottest-AI-Agent-and-Its-Emerging-Risks.html
