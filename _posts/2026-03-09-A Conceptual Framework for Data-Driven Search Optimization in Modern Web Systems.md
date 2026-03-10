@@ -132,7 +132,7 @@ Baeza-Yates, R., & Ribeiro-Neto, B. (2011). *Modern Information Retrieval: The C
 
 ## Citation
 
-If you reference this work:
+If you reference this work:        
 A Conceptual Framework for Data-Driven Search Optimization in Modern Web Systems (Working Paper).
 
 [A Conceptual Framework for Data-Driven Search Optimization in Modern Web Systems](https://www.academia.edu/164995829/A_Conceptual_Framework_for_Data_Driven_Search_Optimization_in_Modern_Web_Systems_Working_Paper_)
