@@ -81,6 +81,7 @@ I care deeply about:
 - **Medium**: [@glpdoctor](https://medium.com/@glpdoctor)  
 - **X / Twitter**: [@golpng157682](https://x.com/golpng157682)
 - **Academia**: [高立平GaoLiping](https://scut.academia.edu/%E9%AB%98%E7%AB%8B%E5%B9%B3GaoLiping)
+- **Google Scholar**: [高立平 Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=c4OU27kAAAAJ)
 
 
 ---
