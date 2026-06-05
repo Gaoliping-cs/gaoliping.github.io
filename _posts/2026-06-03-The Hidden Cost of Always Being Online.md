@@ -1,7 +1,15 @@
-# The Hidden Cost of Always Being Online
+---
+layout: post
+title: "The Hidden Cost of Always Being Online"
+date: 2026-06-3
+description: Connectivity is a default, not a necessity — and the hidden cost of always-online systems is paid not in bandwidth, but in human attention.
+canonical: 
+---
 
+🔗 **Back to:** [Main](/)
 
 ---
+
 
 # The Hidden Cost of Always Being Online
 
