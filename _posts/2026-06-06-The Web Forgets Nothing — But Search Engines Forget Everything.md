@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Web Forgets Nothing — But Search Engines Forget Everything"
-date: 2026-06-07
+date: 2026-06-06
 meta_description: "The web records everything, but search engines have no memory of when — this paper builds the formal machinery to change that."
 canonical: https://www.academia.edu/168298125/Temporal_Dynamics_and_Freshness_Aware_Ranking_in_Web_Information_Retrieval_Systems_Working_Paper_
 ---
